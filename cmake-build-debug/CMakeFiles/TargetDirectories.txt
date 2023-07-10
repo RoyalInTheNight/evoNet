@@ -1,0 +1,6 @@
+C:/Users/MikoG/CLionProjects/evo/cmake-build-debug/CMakeFiles/fs.dir
+C:/Users/MikoG/CLionProjects/evo/cmake-build-debug/CMakeFiles/sock.dir
+C:/Users/MikoG/CLionProjects/evo/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/MikoG/CLionProjects/evo/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/MikoG/CLionProjects/evo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MikoG/CLionProjects/evo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
